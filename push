@@ -1,0 +1,2 @@
+docker push librairy/site:0.1
+docker push librairy/site:latest
